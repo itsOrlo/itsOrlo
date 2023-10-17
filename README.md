@@ -1,6 +1,6 @@
 <h1 align="center">Hi ✍️, I'm Orlo</h1>
 <div align="center">
-<img src="https://github.com/itsOrlo/test-insight/assets/76452632/0439942f-2e36-4062-a53b-8b1b66b73756" align="center" style="height: 200px;" />
+<img src="https://github.com/itsOrlo/test-insight/assets/76452632/50f1a68e-fbec-4059-9b3d-99f938dc3800" align="center" />
 
 
 <br/> 
