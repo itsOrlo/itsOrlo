@@ -1,6 +1,6 @@
 <h1 align="center">Hi ✍️, I'm Orlo</h1>
 <div align="center">
-<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1769&q=80" align="center" style="height: 300px; width: 100%; object-fit: cover;" />
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1769&q=80" align="center" style="height: 320px; width: 100%; object-fit: cover;" />
 </div>  
   
 
@@ -85,7 +85,7 @@
 <a href="https://instagram.com/its.orlo" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/itsorlo" target="_blank">
+<a href="https://www.youtube.com/user/OrlidanMontesdeoca" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
