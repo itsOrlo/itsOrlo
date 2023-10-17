@@ -7,16 +7,16 @@
 ### <div align="center">¡Bienvenido a mi perfil! 👻 </div>  
   
 
-- 🔭 Visita mi portfolio web [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- ✅ Visita mi portfolio web [aquí](https://itsorlo.me/)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 😽 Fundador del grupo Freelance Webcats  
   
 
 - 💻 Desarrollador Junior FrontEnd  
   
 
-- ⚡ Me apasiona crear por medio de código  
+- ⚡ Transformo ideas en código y realidad 
   
 
 <br/>  
