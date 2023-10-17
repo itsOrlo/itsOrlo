@@ -3,26 +3,27 @@
 <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1769&q=80" align="center" style="height: 300px; width: 100%; object-fit: cover;" />
 </div>  
   
-
-### <div align="center">¡Bienvenido a mi perfil! 👻 </div>  
   
 
 - ✅ Visita mi portfolio web [aquí](https://itsorlo.me/)  
   
 
-- 😽 Fundador del grupo Freelance Webcats  
+- 😽 Fundador del grupo Freelance Webcats
   
 
 - 💻 Desarrollador Junior FrontEnd  
   
 
-- ⚡ Transformo ideas en código y realidad 
+- ⚡ Transformo ideas en código y realidad
+
+
+-  💚 Fundador de [SwapMe](https://www.tiktok.com/@swapme.oficial/video/7245021971627396357) App de intercambio de moda
   
 
 <br/>  
 
 
-## My Skill Set  
+## Skills  
 <table><tr><td valign="top" width="33%">
 
 
