@@ -5,20 +5,16 @@
   
   
 
-- ✅ Visita mi portfolio web [aquí](https://itsorlo.me/)  
-  
-
 - 😽 Fundador del grupo Freelance Webcats
   
 
 - 💻 Desarrollador Junior FrontEnd  
-  
-
-- ⚡ Transformo ideas en código y realidad
 
 
 -  💚 Fundador de [SwapMe](https://www.tiktok.com/@swapme.oficial/video/7245021971627396357) App de intercambio de moda
-  
+
+
+- ✅ Visita mi portfolio web [aquí](https://itsorlo.me/)  
 
 <br/>  
 
