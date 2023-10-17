@@ -1,7 +1,6 @@
 <h1 align="center">Hi ✍️, I'm Orlo</h1>
 <div align="center">
-<img src="https://github.com/itsOrlo/test-insight/assets/76452632/cf910102-d559-4f25-a0f1-8ddb1dbad34a" data-gif="https://github.com/itsOrlo/test-insight/assets/76452632/cf910102-d559-4f25-a0f1-8ddb1dbad34a" />
-
+<img src="https://github.com/itsOrlo/test-insight/assets/76452632/88b357d7-b0d7-4822-9cfa-59df554e1681" align="center" style="height: 300px; width: 100%;" />
 
 
 
@@ -102,6 +101,7 @@
 <!-- BLOG-POST-LIST:START -->  
 Apasionado por la tecnología y comprometido con el vertiginoso paisaje de la era digital. Mi enfoque se centra en explorar el vasto universo tecnológico y crear soluciones innovadoras a través de la implementación de código y diseño. Siempre en busca de desafíos que impulsen mi constante aprendizaje y progreso en este emocionante campo 🍕
 <!-- BLOG-POST-LIST:END -->  
+<img src="https://github.com/itsOrlo/test-insight/assets/76452632/cf910102-d559-4f25-a0f1-8ddb1dbad34a" data-gif="https://github.com/itsOrlo/test-insight/assets/76452632/cf910102-d559-4f25-a0f1-8ddb1dbad34a" />
 
 <br/>  
 
