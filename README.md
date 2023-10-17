@@ -100,10 +100,11 @@
 
 
 ## About Me  
-<!-- BLOG-POST-LIST:START -->  
-Apasionado por la tecnología y comprometido con el vertiginoso paisaje de la era digital. Mi enfoque se centra en explorar el vasto universo tecnológico y crear soluciones innovadoras a través de la implementación de código y diseño. Siempre en busca de desafíos que impulsen mi constante aprendizaje y progreso en este emocionante campo 🍕
-<!-- BLOG-POST-LIST:END -->  
+<div align="center">
 <img src="https://github.com/itsOrlo/test-insight/assets/76452632/cf910102-d559-4f25-a0f1-8ddb1dbad34a" data-gif="https://github.com/itsOrlo/test-insight/assets/76452632/cf910102-d559-4f25-a0f1-8ddb1dbad34a" />
+</div>
+
+Apasionado por la tecnología y comprometido con el vertiginoso paisaje de la era digital. Mi enfoque se centra en explorar el vasto universo tecnológico y crear soluciones innovadoras a través de la implementación de código y diseño. Siempre en busca de desafíos que impulsen mi constante aprendizaje y progreso en este emocionante campo 🍕
 
 <br/>  
 
