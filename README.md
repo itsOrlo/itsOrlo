@@ -1,6 +1,6 @@
 <h1 align="center">Hi ✍️, I'm Orlo</h1>
 <div align="center">
-<img src="https://github.com/itsOrlo/test-insight/assets/76452632/88b357d7-b0d7-4822-9cfa-59df554e1681" align="center" style="height: 200px;" />
+<img src="https://github.com/itsOrlo/test-insight/assets/76452632/0439942f-2e36-4062-a53b-8b1b66b73756" align="center" style="height: 200px;" />
 
 
 <br/> 
@@ -75,9 +75,6 @@
 
 ## Social Networks 
 <div align="center">
-<a href="https://github.com/itsOrlo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/orlidan-montesdeoca" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
