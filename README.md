@@ -1,6 +1,6 @@
 <h1 align="center">Hi ✍️, I'm Orlo</h1>
 <div align="center">
-<img src="https://github.com/itsOrlo/test-insight/assets/76452632/cf910102-d559-4f25-a0f1-8ddb1dbad34a" width="100%" height="300" data-gif="(https://github.com/itsOrlo/test-insight/assets/76452632/cf910102-d559-4f25-a0f1-8ddb1dbad34a" />
+<img src="https://github.com/itsOrlo/test-insight/assets/76452632/cf910102-d559-4f25-a0f1-8ddb1dbad34a" data-gif="https://github.com/itsOrlo/test-insight/assets/76452632/cf910102-d559-4f25-a0f1-8ddb1dbad34a" />
 
 
 
