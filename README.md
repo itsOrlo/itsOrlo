@@ -1,6 +1,6 @@
 <h1 align="center">Hi ✍️, I'm Orlo</h1>
 <div align="center">
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1769&q=80)" align="center" style="width: 100%" />
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1769&q=80" align="center" style="width: 100%" />
 </div>  
   
 
@@ -61,7 +61,7 @@
 
 
 
-### DevOps  
+### Others  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
@@ -74,7 +74,7 @@
 <br/>  
 
 
-## Connect with me  
+## Social Networks 
 <div align="center">
 <a href="https://github.com/itsOrlo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -94,13 +94,13 @@
 <br/>  
 
 
-## Github Stats  
+## Language Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsOrlo&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
+## About Me  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
@@ -112,7 +112,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img width:"175px" src="https://komarev.com/ghpvc/?username=itsOrlo&&color=DE002D" align="center" />
+<img width:"175px" src="https://komarev.com/ghpvc/?username=itsOrlo&&color=43D698" align="center" />
 </div>  
   
 
