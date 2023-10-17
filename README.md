@@ -99,7 +99,7 @@
 
 ## About Me  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+Apasionado por la tecnología y comprometido con el vertiginoso paisaje de la era digital. Mi enfoque se centra en explorar el vasto universo tecnológico y crear soluciones innovadoras a través de la implementación de código y diseño. Siempre en busca de desafíos que impulsen mi constante aprendizaje y progreso en este emocionante campo 🍕
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
