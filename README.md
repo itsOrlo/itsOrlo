@@ -1,7 +1,8 @@
 <h1 align="center">Hi ✍️, I'm Orlo</h1>
 <div align="center">
 <img src="https://media3.giphy.com/media/ECgSx97zIAaR62CLz3/giphy.gif?cid=ecf05e47gaelobbvarqtiy3e71zw3juke32ektmea767h9vh&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" style="height: 300px; width: 100%;" />
-  ![giphy](https://github.com/itsOrlo/test-insight/assets/76452632/3a424e9d-9c90-4cf7-9d91-3fa8cc418e0e)
+  #a
+![giphy](https://github.com/itsOrlo/test-insight/assets/76452632/3a424e9d-9c90-4cf7-9d91-3fa8cc418e0e)
 
 </div>  
   
