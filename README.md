@@ -17,7 +17,7 @@
 -  💚 Fundador de [SwapMe](https://play.google.com/store/apps/details?id=com.company.swapme&hl=en-US) - App de intercambio de moda
 
 
-- ✅ Visita mi portfolio web [aquí](https://itsorlo.me/)  
+- ✅ Visita mi portfolio web [aquí](https://itsorlo.github.io/)  
 
 <br/>  
 
