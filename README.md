@@ -8,13 +8,13 @@
 
  
 
-- 😽 Fundador del grupo Freelance [Webcats](https://beacons.ai/webcats)
+- 😽 Freelance Developer en [Webcats](https://beacons.ai/webcats)
   
 
-- 💻 Desarrollador Junior FrontEnd  
+- 💻 Desarrollador FrontEnd  
 
 
--  💚 Fundador de [SwapMe](https://www.tiktok.com/@swapme.oficial/video/7245021971627396357) - App de intercambio de moda
+-  💚 Fundador de [SwapMe](https://play.google.com/store/apps/details?id=com.company.swapme&hl=en-US) - App de intercambio de moda
 
 
 - ✅ Visita mi portfolio web [aquí](https://itsorlo.me/)  
