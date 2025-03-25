@@ -1,4 +1,5 @@
 <h1 align="center">Hi ✍️, I'm Orlo</h1>
+<h3 align="center">A data analyst passionate about uncovering hidden stories in data and transforming complex information into actionable insights</h3>
 <div align="center">
 <img src="https://github.com/itsOrlo/test-insight/assets/76452632/0439942f-2e36-4062-a53b-8b1b66b73756" align="center" />
 
@@ -27,7 +28,7 @@
 
 
 
-### Frontend  
+### Data Analytics  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
