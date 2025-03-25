@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/itsorlo/itsorlo/main/assets/banner.png)
 
 <h1 align="center">¡Hola! 👋 Soy Orlo</h1>
-<h3 align="center">Analista de datos apasionado por descubrir historias ocultas en los datos y transformar información compleja en ideas accionables</h3>
+<h3 align="center">Analista de datos apasionado por descubrir historias ocultas en los datos y transformar información compleja en ideas accionables :)</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=itsorlo.itsorlo" alt="visitors"/>
@@ -27,7 +27,7 @@ Ingeniero en Tecnologías de la Información con pasión por la programación y 
 
 ## 🎯 Objetivos
 - 📊 Especialización en Ciencia de Datos
-- 📈 Desarrollo de proyectos de análisis de datos
+- 📈 Desarrollo de proyectos de análisis avanzado
 - 🤖 Aprendizaje continuo en IA y Machine Learning
 
 ### 🛠️ Herramientas y Tecnologías
