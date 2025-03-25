@@ -1,4 +1,3 @@
-<!-- Recomendación: Exporta tu diseño de Canva como imagen PNG y súbela a tu repositorio en /assets/banner.png -->
 ![Banner](https://i.postimg.cc/nr8PhvNB/Banner-Horizontal-de-Tienda-Ecommerce-Tecnol-gico-Negro-y-Verde.png)
 
 <h1 align="center">¡Hola! 👋 Soy Orlo</h1>
