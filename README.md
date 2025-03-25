@@ -8,7 +8,7 @@
 
  
 
-- 😽 Freelance Developer en [Webcats](https://beacons.ai/webcats)
+- 📊 Analista de Datos [Banco VisionFund](https://www.visionfund.ec/)
   
 
 - 💻 Desarrollador FrontEnd  
