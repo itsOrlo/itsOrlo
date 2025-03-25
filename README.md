@@ -1,4 +1,5 @@
-![Banner](https://raw.githubusercontent.com/itsorlo/itsorlo/main/assets/banner.png)
+<!-- Recomendación: Exporta tu diseño de Canva como imagen PNG y súbela a tu repositorio en /assets/banner.png -->
+![Banner](https://i.postimg.cc/nr8PhvNB/Banner-Horizontal-de-Tienda-Ecommerce-Tecnol-gico-Negro-y-Verde.png)
 
 <h1 align="center">¡Hola! 👋 Soy Orlo</h1>
 <h3 align="center">Analista de datos apasionado por descubrir historias ocultas en los datos y transformar información compleja en ideas accionables :)</h3>
