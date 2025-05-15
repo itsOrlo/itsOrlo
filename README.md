@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/nr8PhvNB/Banner-Horizontal-de-Tienda-Ecommerce-Tecnol-gico-Negro-y-Verde.png)
+![Banner](https://i.postimg.cc/BZTj2Xg5/Banner-Horizontal-de-Tienda-Ecommerce-Tecnol-gico-Negro-y-Verde.png)
 
 <h1 align="center">¡Hola! 👋 Soy Orlo</h1>
 <h3 align="center">Analista de datos apasionado por descubrir historias ocultas en los datos y transformar información compleja en ideas accionables :)</h3>
